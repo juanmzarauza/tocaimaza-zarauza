@@ -1,0 +1,104 @@
+@import "https://fonts.googleapis.com/css2?family=Alkatra&display=swap";
+.clase1 {
+  background-image: radial-gradient(circle, rgb(247, 90, 90), rgb(250, 223, 71));
+  font-family: "Alkatra", cursive;
+}
+
+.clase2 {
+  background-image: url(https://decarolis.com.ar/wp-content/uploads/2020/07/26-bondiola.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: orange;
+  display: inline-block;
+  padding: 15rem;
+  display: block;
+  z-index: 1;
+  font-family: "Alkatra", cursive;
+}
+
+.clase3 {
+  font-size: 1rem;
+  font-family: "Alkatra", cursive;
+}
+
+.clase4 {
+  background-image: linear-gradient(to top, rgb(255, 85, 0), gold);
+  font-family: "Alkatra", cursive;
+}
+
+.clase5 {
+  background-image: url(https://www.ahumadores.cl/wp-content/uploads/ahumadores-electricos.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: orange;
+  display: inline-block;
+  padding: 15rem;
+  display: block;
+  z-index: 1;
+  font-family: "Alkatra", cursive;
+}
+
+.clase6 {
+  background-image: linear-gradient(rgb(247, 90, 90), rgb(250, 223, 71));
+  font-family: "Alkatra", cursive;
+}
+
+.btn1 {
+  background-color: rgb(231, 108, 26);
+  border: 2px white solid;
+  font-family: "Alkatra", cursive;
+  transition-property: ease-in 10s;
+}
+.btn1:hover {
+  background-image: linear-gradient(rgb(247, 90, 90), rgb(250, 223, 71));
+}
+
+.btn2:hover {
+  border: 1px solid black;
+  background-image: linear-gradient(rgb(247, 90, 90), rgb(250, 223, 71));
+}
+
+.form {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgb(247, 90, 90), rgb(250, 223, 71));
+  font-family: "Alkatra", cursive;
+}
+.form input {
+  width: 90%;
+  height: 30px;
+  margin: 0.5rem;
+}
+.form button {
+  padding: 0.5em 1em;
+  border: none;
+  background: rgb(255, 208, 100);
+  cursor: pointer;
+}
+
+.mapa {
+  width: 100%;
+  height: 100%;
+  background-image: radial-gradient(circle, rgb(247, 90, 90), rgb(250, 223, 71));
+  border: 5px outset red;
+  font-family: "Alkatra", cursive;
+}
+
+li {
+  font-weight: bold;
+  text-decoration: none;
+  font-family: "Alkatra", cursive;
+}
+
+.fuente {
+  font-family: "Alkatra", cursive;
+}
+
+/*# sourceMappingURL=estilo.css.map */

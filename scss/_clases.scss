@@ -1,0 +1,40 @@
+.clase1 {
+	background-image: radial-gradient(circle, rgb(247, 90, 90), rgb(250, 223, 71));
+    font-family: $font-family_1;
+}
+.clase2 {
+	background-image: url(https://decarolis.com.ar/wp-content/uploads/2020/07/26-bondiola.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color: $color_1;
+	display: inline-block;
+	padding: 15rem;
+	display: block;
+	z-index: 1;
+    font-family: $font-family_1;
+}
+.clase3 {
+	font-size: 1rem;
+    font-family: $font-family_1;
+}
+.clase4 {
+	background-image: linear-gradient(to top, rgb(255, 85, 0), gold);
+    font-family: $font-family_1;
+}
+.clase5 {
+	background-image: url(https://www.ahumadores.cl/wp-content/uploads/ahumadores-electricos.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color: $color_1;
+	display: inline-block;
+	padding: 15rem;
+	display: block;
+	z-index: 1;
+    font-family: $font-family_1;
+}
+.clase6 {
+	background-image: linear-gradient( rgb(247, 90, 90), rgb(250, 223, 71));
+    font-family: $font-family_1;
+}

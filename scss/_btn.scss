@@ -1,0 +1,15 @@
+.btn1 {
+	background-color: $background-color_1;
+	border: 2px white solid;
+	font-family: $font-family_1;
+	transition-property: ease-in 10s;
+	&:hover {
+		background-image: linear-gradient( rgb(247, 90, 90), rgb(250, 223, 71));
+	}
+}
+.btn2 {
+	&:hover {
+		border: 1px solid black;
+		background-image: linear-gradient( rgb(247, 90, 90), rgb(250, 223, 71));
+	}
+}
